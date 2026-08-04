@@ -1,5 +1,8 @@
 # WKT-DNS Unified Privacy Configuration
 
+<img width="1254" height="1254" alt="1AD39267-52E2-4216-8FB7-CFCBAC6E0D5F" src="https://github.com/user-attachments/assets/90b0a0cd-4029-40f8-a8dd-0255a08c8a51" />
+
+
 WKT-DNS is a hardened DNS privacy configuration designed for:
 
 - NextDNS
