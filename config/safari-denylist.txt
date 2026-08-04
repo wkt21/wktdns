@@ -1,0 +1,10 @@
+google.com
+gstatic.com
+doubleclick.net
+googlesyndication.com
+googlevideo.com
+instagram.com
+tiktokv.com
+facebook.net
+fbcdn.net
+sentry.io

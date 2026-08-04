@@ -1,0 +1,10 @@
+icloud.com
+apple.com
+nextdns.io
+microsoft.com
+akamai.com
+cloudflare.com
+fastly.net
+digicert.com
+letsencrypt.org
+itunes.apple.com
